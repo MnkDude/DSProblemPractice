@@ -1,4 +1,4 @@
-package com.gfk.array;
+package com.gfg.array;
 
 public class ArrayRotation {
 }
